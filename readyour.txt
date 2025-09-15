@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 no
 master 3
+=======
+no sec
+sec3
+>>>>>>> sec
